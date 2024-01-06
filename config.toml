@@ -1,0 +1,21 @@
+baseURL = 'https://2fd5.com/'
+languageCode = 'en-us'
+title = '2fd5.com Site'
+theme = 'coming-soon'
+
+[params]
+    title = "2fd5.com Coming Soon" 
+    description = "A simple countdown"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "Jan 30, 2024" 
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "example@example.com"},      
+    {name = "twitter", url = "https://twitter.com/"},    
+    {name = "facebook", url = "https://facebook.com/"},    
+    {name = "github", url = "https://github.com/"},    
+    {name = "instagram", url = "https://instagram.com/"},    
+    {name = "tiktok", url = "https://tiktok.com/"},    
+]
